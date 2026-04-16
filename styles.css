@@ -51,8 +51,8 @@ header {
 }
 
 .project-card img {
-    max-height: 100%;
-    max-width: 100%;
+    width: 200px;
+    height: 200px;
     object-fit: contain;
     display: block;
 }
