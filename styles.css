@@ -5,6 +5,10 @@ body {
     color: #333;
 }
 
+h1 {
+    font-family: 'Brush Script MT', cursive;
+}
+
 h3 {
     font-size: 1.2rem;
     margin: 10px 0;
