@@ -39,11 +39,11 @@ header {
     transition: transform 0.2s ease;
     display: flex;
     flex-direction: column;
-    height: 600px;
+    height: 700px;
 }
 
 .image-container {
-    height: 250px;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
