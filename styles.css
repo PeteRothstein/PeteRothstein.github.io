@@ -32,10 +32,6 @@ header {
     height: 600px;
 }
 
-.project-card:hover {
-    transform: translateY(-5px);
-}
-
 .image-container {
     height: 250px;
     display: flex;
