@@ -5,6 +5,26 @@ body {
     color: #333;
 }
 
+.font1 {
+    font-family: 'Times New Roman', serif;
+}
+
+.font2 {
+    font-family: 'Arial', sans-serif;
+}
+
+.font3 {
+    font-family: 'Brush Script MT', cursive;
+}
+
+.font4 {
+    font-family: 'Courier New', monospace;
+}
+
+.font5 {
+    font-family: 'Impact', sans-serif;
+}
+
 .subtitle {
     font-size: 1.1rem;
     font-style: italic;
